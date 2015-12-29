@@ -1,0 +1,26 @@
+{
+  "name" : "jp-infinity/fatcow-icons-bundle",
+  "description" : "FatCow Icons bundle",
+  "homepage": "https://github.com/jp-infinity/fatcow-icons-bundle",
+  "type" : "symfony-bundle",
+  "authors" : [{
+    "name" : "Julien Peltier",
+    "email" : "contact@julien-peltier.fr"
+  },{
+    "name" : "FatCow",
+    "homepage" : "http://www.fatcow.com/free-icons"
+  }],
+  "license" : "CC",
+  "require" : {
+  },
+  "autoload" : {
+    "psr-0" : {
+      "JPInfinity\\FatcowIconsBundle" : ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x-dev"
+    }
+  }
+}
