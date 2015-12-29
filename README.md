@@ -22,19 +22,8 @@ And update your dependencies
     php composer.phar update
 ```
 
-### Step 2: Configure the Autoloader
 
-If you use composer, you can skip this step.
-
-Add it to your `autoload_namespace.php` :
-
-```php
-<?php
-...
-'JPInfinity\\FatcowIconsBundle' => array($vendorDir . '/jp-infinity/fatcow-icons-bundle'),
-```
-
-### Step 3: Enable the bundle
+### Step 2: Enable the bundle
 
 Registers the bundle in your `app/AppKernel.php`:
 
@@ -51,7 +40,7 @@ public function registerBundles()
 ...
 ```
 
-### Step 4: Install assets
+### Step 3: Install assets
 
 Install assets to your web dir :
 

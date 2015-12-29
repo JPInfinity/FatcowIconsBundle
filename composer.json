@@ -13,10 +13,8 @@
   "license" : "CC",
   "require" : {
   },
-  "autoload" : {
-    "psr-0" : {
-      "JPInfinity\\FatcowIconsBundle" : ""
-    }
+  "autoload": {
+    "psr-4": { "JPInfinity\\FatcowIconsBundle\\": "" }
   },
   "extra": {
     "branch-alias": {
