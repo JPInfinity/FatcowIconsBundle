@@ -13,7 +13,7 @@ Installation
 Add the following to the "require" section of your `composer.json` file:
 
 ```
-    "jp-infinity/fatcow-icons-bundle": "^1.0"
+    "jp-infinity/fatcow-icons-bundle": "dev-master"
 ```
 
 And update your dependencies
