@@ -28,8 +28,8 @@ class GenerateFilesCommand extends ContainerAwareCommand
         $scssDir = realpath(__DIR__ .'/../Resources/scss');
 
         // ICONS 16x16
-        $fp = fopen($scssDir . '/fatcow16.scss', 'w+');
-        $content = "@import \"vars\";\n@import \"icons\";\n\n";
+        $fp = fopen($scssDir . '/_fatcow16.scss', 'w+');
+        $content = "";
         $icons16 = glob(__DIR__ .'/../Resources/public/images/icons16x16/*.{png,jpg,gif}', GLOB_BRACE);
         foreach($icons16 as $img)
         {
@@ -41,8 +41,8 @@ class GenerateFilesCommand extends ContainerAwareCommand
         $output->writeln(sprintf('Icons 16x16 - %d icons available', count($icons16)));
 
         // ICONS 32x32
-        $fp = fopen($scssDir . '/fatcow32.scss', 'w+');
-        $content = "@import \"vars\";\n@import \"icons\";\n\n";
+        $fp = fopen($scssDir . '/_fatcow32.scss', 'w+');
+        $content = "";
         $icons32 = glob(__DIR__ .'/../Resources/public/images/icons32x32/*.{png,jpg,gif}', GLOB_BRACE);
         foreach($icons32 as $img)
         {
