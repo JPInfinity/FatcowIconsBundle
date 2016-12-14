@@ -1,7 +1,6 @@
 Fatcow Icons Bundle By JP Infinity
 ==================================
 
-[![Code Coverage](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/badges/build.png?b=master)](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/build-status/master)
 
