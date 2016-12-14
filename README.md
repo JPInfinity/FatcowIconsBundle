@@ -1,6 +1,10 @@
 Fatcow Icons Bundle By JP Infinity
 ==================================
 
+[![Code Coverage](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/badges/build.png?b=master)](https://scrutinizer-ci.com/g/JPInfinity/FatcowIconsBundle/build-status/master)
+
 3926 Free "Farm-Fresh Web Icons". Beautifully designed icons from FatCow Web Hosting! Icon set includes both 16 and 32 pixel versions of icons shown there : http://www.fatcow.com/free-icons.
 
 Installation
